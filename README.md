@@ -34,6 +34,9 @@
 - 密码：P@ssw0rd123..
 - 使用前请阅读：<https://demo.halo.run/archives/tips>
 
+## 二次开发
+先fork到自己的github中
+
 ## 生态
 
 | 项目                                                                         | 状态                                                                                                                                                                             | 描述                                     |
