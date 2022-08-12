@@ -35,7 +35,7 @@
 - 使用前请阅读：<https://demo.halo.run/archives/tips>
 
 ## 二次开发
-先fork到自己的github中
+先fork到自己的github中，然后push，最后提交合并请求。
 
 ## 生态
 
